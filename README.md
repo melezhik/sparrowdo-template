@@ -19,7 +19,7 @@ This is on time operation.
 ```bash
 #!bash
 
-sparrowdo --host $host --ssh_user ubuntu --bootstrap
+sparrowdo --host $host --ssh_user ubuntu --bootstrap --color
 ```
 
 Once host is bootstraped, you can run some example scenarios.
@@ -29,5 +29,5 @@ Once host is bootstraped, you can run some example scenarios.
 ```bash
 #!bash
 
-sparrowdo --host $host --ssh_user ubuntu --sparrowfile sparrowfile_one
+sparrowdo --host $host --ssh_user ubuntu --sparrowfile sparrowfile_packages.raku --color
 ```
