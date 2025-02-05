@@ -1,3 +1,5 @@
 #!raku
 
 say "Hello world";
+
+say config().raku;
