@@ -2,7 +2,7 @@
 
 Template sparrowdo repository. 
 
-Contains sample repository with some typical Sparrowdo scenarions and files
+Contains sample repository with some typical Sparrowdo scenarions and files.
 
 # Install
 
