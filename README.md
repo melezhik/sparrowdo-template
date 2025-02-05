@@ -14,7 +14,7 @@ Bootstrap will install Rakudo and Sparrowdo client on your host.
 
 All you need to start working with Sparrowdo.
 
-This is on time operation.
+This is one time operation.
 
 ```bash
 #!bash
