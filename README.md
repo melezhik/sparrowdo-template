@@ -12,7 +12,7 @@ zef install --/test Sparrowdo
 
 # Bootstrap ssh host
 
-Bootstrap will install Rakudo and Sparrowdo client on your host.
+Bootstrap will install Rakudo and Sparrow client on your host.
 
 All you need to start working with Sparrowdo.
 
